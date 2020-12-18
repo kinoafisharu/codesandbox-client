@@ -5,27 +5,27 @@ slug: /faqs
 description: Answers to questions about CodeSandbox that come up the most.
 ---
 
-## Which languages and frameworks are supported?
+## Какие языки и фреймворки поддерживаются?
 
-CodeSandbox works with JavaScript (including TypeScript) and has front-end and
-full-stack support.
+CodeSandbox работает с JavaScript (включая TypeScript) и его front-end и
+full-stack поддержкой.
 
-We've client templates for: React, Vue, Angular, Preact, Svelte, Dojo, CX,
-Reason, as well as vanilla JavaScript that uses Parcel, and one for static
-(HTML, JavaScript, CSS) projects.
-
-We also have container templates for: Node.js, Angular, Adonis, Gatsby, Marko,
+Поддерживаемые среды: React, Vue, Angular, Preact, Svelte, Dojo, CX,
+Reason, также "чистый" (vanilla) JavaScript с использованием Parcel, включая всю статику
+(HTML, JavaScript, CSS).
+Также поддерживаются контейнеры для: Node.js, Angular, Adonis, Gatsby, Marko,
 Nuxt, Next, Sapper, Apollo, Ember, Nest, Styleguidist, MDX Deck, Gridsome,
-Quasar, and Vuepress.
+Quasar и Vuepress.
 
-[Create a sandbox from a template](https://codesandbox.io/s/), or read more
-about the
-[difference between client and container sandboxes](/docs/environment).
+[Создайте вашу песочницу по шаблону вашей среды](https://codesandbox.io/s/), или 
+читайте подробнее о
+[различиях между клиентскими и контейнерными песочницами](/docs/environment).
 
-## How do I make a sandbox private?
+## Как сделать песочницу приватной?
 
-You can set a sandbox as private in two main ways: From the editor, change the
-privacy setting from the Privacy drop-down under Sandbox Info, and from the
+Сделать песочницу приватной можно двумя путями: в редакторе, в левом меню в 
+разделе Sandbox Info внизу изменив установку пункта Privacy на "privacy" 
+(только в "pro" тарифе), или в дашборде and from the
 dashboard right-click and select make private.
 
 Note that a [Pro subscription](https://codesandbox.io/pricing) is required to
