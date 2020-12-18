@@ -5,31 +5,32 @@ slug: /
 description: Learn what CodeSandbox is and how to use it.
 ---
 
-## What is CodeSandbox
+## Что такое CodeSandbox
 
-CodeSandbox is an online editor for rapid web development. With CodeSandbox, you
-can prototype quickly, experiment easily, and share creations with a click.
+CodeSandbox - это онлайн-редактор для ускорения веб-разработки. С CodeSandbox вы 
+можете быстро создавать прототипы, легко экспериментировать и делиться созданным
+одним кликом.
 
-Use it to create static sites, full-stack web apps or components, on any device
-with a web browser.
+Используйте его при создании веб-сайтов, веб-приложений или компонентов прямо в 
+браузере и командно.
 
-## Product Values
+## Командная работа
 
-Our mission is to make web development faster. By removing complexity, we enable
-web developers to be more productive. By simplifying collaboration, we make it
-easier for teams to work on code together.
+Наша миссия - сделать веб-разработку быстрее. Убирая сложности, мы даём возможность
+веб-разработчикам быть более продуктивными. Командная работа над кодом становится
+предельно простой и удобной.
 
-### Code, not infrastructure
+### Код, а не инфраструктура
 
-We handle the development environment, taking on setup, tooling, and
-provisioning, so it’s as fast as possible to start and build projects.
+Среда разработки - это наша забота. Мы обеспечим настройку и инструменты, чтобы вы 
+могли реализовывать ваши проекты максимально быстро.
 
-### Shareable by default
+### Совместно и удаленно
 
-We create solutions that enable developers to work from anywhere and teams to
-build together in new and more effective ways.
+Мы создаем решения, которые позволяют разработчикам работать откуда угодно, а командам -
+строить вместе новыми и более эффективными способами.
 
-### Work like local
+### Работать удобнее чем локально
 
-We equip developers with a local editor experience that’s familiar and
-integrated with popular developer tools, so the process of creation is seamless.
+Вы будете работать в знакомой и удобной среде редактора, интегрированного со всеми
+популярными инструментами разработчика, что сделает работу беспроблемной.
